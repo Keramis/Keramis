@@ -2,7 +2,7 @@
 
 # Hello dear viewer.
 
-I am a lua script and (hopefully soon) C++ developer.
+I am a lua script and junior C++ developer.
 
 ### Languages on my profile:
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Keramis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
